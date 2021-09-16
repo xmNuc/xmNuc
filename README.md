@@ -7,3 +7,6 @@ Jakub D
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmNuc&theme=tokyonight&hide=prs,issues,contribs)
+
+
+You can contact me through fb https://www.facebook.com/jakub.de.1048/
