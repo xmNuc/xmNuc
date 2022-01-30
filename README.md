@@ -10,6 +10,7 @@ Jakub D
 
 
 You can contact me through fb https://www.facebook.com/jakub.de.1048/
+or Insta https://www.instagram.com/_stormedit_/
 
 
 <h3 align="center">Languages and Tools:</h3>
