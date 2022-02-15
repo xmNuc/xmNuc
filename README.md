@@ -9,9 +9,9 @@ Jakub D
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xmNuc&theme=tokyonight&hide=prs,issues,contribs)
 
 
-You can contact me through fb https://www.facebook.com/jakub.de.1048/
-or Insta https://www.instagram.com/_stormedit_/
-Youtube My YT: https://www.youtube.com/channel/UCtnIjUpe2EVZbH26p20obA
+You can contact me through fb https://www.facebook.com/jakub.de.1048/ <br>
+or Insta https://www.instagram.com/_stormedit_/ <br>
+Youtube My YT: https://www.youtube.com/channel/UCtnIjUpe2EVZbH26p20obA <br>
 
 
 <h3 align="center">Languages and Tools:</h3>
