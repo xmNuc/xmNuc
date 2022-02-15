@@ -34,14 +34,6 @@ or Insta https://www.instagram.com/_stormedit_/
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
 <a href="https://yarnpkg.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
-</p>
-</p>
-</p>
-</p>
-<p align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-</p>
+
 
 ![](https://komarev.com/ghpvc/?username=xmNuc&color=ff69b4)
