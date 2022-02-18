@@ -11,7 +11,7 @@ Jakub D
 
 You can contact me through fb https://www.facebook.com/jakub.de.1048/ <br>
 or Insta https://www.instagram.com/_stormedit_/ <br>
-Youtube My YT: https://www.youtube.com/channel/UCtnIjUpe2EVZbH26p20obnA <br>
+<br>
 
 
 <h3 align="center">Languages and Tools:</h3>
