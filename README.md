@@ -38,9 +38,7 @@ or Insta https://www.instagram.com/_stormedit_/ <br>
 <br />
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmNuc&layout=compact&theme=tokyonight />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmNuc&layout=compact&theme=tokyonight" />
 </div>
 
 
