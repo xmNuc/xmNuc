@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 
@@ -42,4 +44,5 @@ or Insta https://www.instagram.com/_stormedit_/ <br>
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=xmNuc&color=ff69b4)
+(https://komarev.com/ghpvc/?username=xmNuc&color=ff69b4)
+</div>
