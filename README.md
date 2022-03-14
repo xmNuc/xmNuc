@@ -36,11 +36,12 @@ or Insta https://www.instagram.com/_stormedit_/ <br>
 <a href="https://yarnpkg.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 <br />
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmNuc&layout=compact&theme=tokyonight />
   </div>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmNuc&layout=compact&theme=tokyonight />
+
 
 ![](https://komarev.com/ghpvc/?username=xmNuc&color=ff69b4)
