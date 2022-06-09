@@ -13,6 +13,7 @@ Jakub D
 
 You can contact me through fb https://www.facebook.com/jakub.de.1048/ <br>
 or Insta https://www.instagram.com/_stormedit_/ <br>
+  xmnuc@o2.pl<br>
 <br>
 
 
