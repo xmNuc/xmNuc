@@ -39,7 +39,8 @@ or Insta https://www.instagram.com/_stormedit_/ <br>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://yarnpkg.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://yarnpkg.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://www.primefaces.org/primereact/" target="_blank"> <img src="https://www.primefaces.org/primereact/images/landing-new/overview-icon.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 <br />
 
