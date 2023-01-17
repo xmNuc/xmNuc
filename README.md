@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I'm Jakub D, and im trying my strength at software full stack development. Java-Script, Node.js, Express, Html, Css, React. Im also love make movies from my adventures, video editing, animation and post production. You can visit my YT chanel. https://www.youtube.com/channel/UCtnIjUpe2EVZbH26p20obnA
+I'm Jakub D, and im working as front-end developer, and also i'm trying my strength at full stack development. Type-script, Java-Script, React, Node.js, Express, Html, Css/Sass, MYSQL, MongoDB. Im also love make movies from my adventures, video editing, animation and post production. You can visit my YT chanel. https://www.youtube.com/channel/UCtnIjUpe2EVZbH26p20obnA
 <br/>
 
 Jakub D
