@@ -34,10 +34,6 @@ You can contact me through fb https://www.facebook.com/jakub.de.1048/ <br>
 <a href="https://yarnpkg.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="xd" width="40" height="40"/></a>
 </p>
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmNuc&layout=compact&theme=tokyonight" />
-</div>
 <br />
 
 ![](https://komarev.com/ghpvc/?username=xmNuc&color=ff69b4)
