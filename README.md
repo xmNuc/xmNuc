@@ -18,6 +18,7 @@ You can contact me through fb https://www.facebook.com/jakub.de.1048/ <br>
   <br>CSS/SCSS
   <br>JAVASCRIPT
   <br>REACT
+  <br>REACT NATIVE
   <br>MYSQL
   <br>MONGO DB
   <br>NODE JS
